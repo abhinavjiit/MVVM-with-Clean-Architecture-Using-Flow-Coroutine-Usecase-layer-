@@ -1,4 +1,4 @@
-package com.example.upstox.core
+package com.example.upstox.base
 
 import androidx.annotation.LayoutRes
 
